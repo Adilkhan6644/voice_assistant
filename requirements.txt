@@ -1,0 +1,6 @@
+livekit
+livekit-agents[openai,deepgram,silero]
+asyncpg
+aiohttp
+python-dotenv
+psycopg2-binary
